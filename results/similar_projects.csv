@@ -1,0 +1,12 @@
+target,similar projects
+ant-1.7,"lucene, jedit, ivy"
+camel-1.6,"velocity, ivy, ant"
+ivy-1.2,"camel, velocity, jedit"
+jedit-4.3,"ant, ivy, xalan"
+log4j-1.2,"velocity, lucene, camel"
+lucene-2.4,"ant, velocity, log4j"
+poi-3.0,"lucene, ant, log4j"
+synapse-1.2,"velocity, lucene, log4j"
+velocity-1.6,"camel, ivy, log4j"
+xalan-2.7,"jedit, ant, lucene"
+xerces-1.4.4,"velocity, ivy, camel"
